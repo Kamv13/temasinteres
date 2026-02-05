@@ -17,6 +17,6 @@
   { "id": 16, "titulo": "Emprendimiento", "interesante": false },
   { "id": 17, "titulo": "Cocina", "interesante": false },
   { "id": 18, "titulo": "Fotografia", "interesante": false },
-  { "id": 19, "titulo": "Política", "interesante": false },
+  { "id": 19, "titulo": "Politica", "interesante": false },
   { "id": 20, "titulo": "Ecología", "interesante": false }
 ]
